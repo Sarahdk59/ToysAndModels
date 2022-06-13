@@ -16,6 +16,7 @@ Dashboard Power BI
 
 Dashboard Google Data Studio 
 Présentation au client sa demande initiale non interactif car les KPI ne sont pas synchronisables (analyse une fois au mois, une fois à l'année...) 
+
 https://datastudio.google.com/reporting/aa1e8f17-e71f-4354-b5c3-f123eb79941f
 
 Fichiers projet :
